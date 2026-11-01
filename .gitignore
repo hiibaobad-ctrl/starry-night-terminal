@@ -1,3 +1,4 @@
 # Ignore the downloaded image
 starry_night_source.jpg
 __pycache__/
+*.obj
